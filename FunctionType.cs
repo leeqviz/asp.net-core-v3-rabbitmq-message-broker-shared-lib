@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MessageBrokerShared
 {
-    enum FunctionType
+    public enum FunctionType
     {
         GET,
         POST,
